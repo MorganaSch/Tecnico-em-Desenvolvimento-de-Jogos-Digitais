@@ -1,7 +1,7 @@
 <div align="center">
 <h1>👾🎮Técnico em Desenvolvimento de Jogos Digitais I 🕹️💻 </h1>
    <p align="center">
-  <img src="https://bpb-us-e1.wpmucdn.com/wp.nyu.edu/dist/6/19581/files/2020/09/monument_valley-1.gif" alt="Data analysis gif" width="200"/>
+  <img src="https://bpb-us-e1.wpmucdn.com/wp.nyu.edu/dist/6/19581/files/2020/09/monument_valley-1.gif" alt="Data analysis gif" width="600"/>
 </p>
 </div>
 
